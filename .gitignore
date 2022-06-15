@@ -1,0 +1,4 @@
+#IDE files
+.vs/
+*.sln
+*.njsproj*
